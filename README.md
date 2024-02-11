@@ -2,6 +2,9 @@
 
 This project demos how to use Serverless Framework with Lambda Authorizer locally for REST APIs (API Gateway V1).
 
+Check out the article that walks you through this repository.
+
+[AWS Serverless - Using Serverless Framework with Custom Authoriser Locally](https://www.willischou.com/aws-serverless-using-serverless-framework-with-custom-authoriser-locally/)
 
 ## Requirement
 

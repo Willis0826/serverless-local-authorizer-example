@@ -5,7 +5,7 @@ import ping from '@functions/ping';
 
 
 const serverlessConfiguration: AWS = {
-  service: 'plutus-api-v2',
+  service: 'api',
   frameworkVersion: '3',
   plugins: ['serverless-esbuild', 'serverless-offline'],
   provider: {
